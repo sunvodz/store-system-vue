@@ -26,9 +26,9 @@ yes
 
 demo
 
-Use NPM
+Use NPM or Use yarn
 
-npm run serve
+npm run serve or yarn serve
 ```
 
 ## Project setup
